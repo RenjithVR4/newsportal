@@ -1,3 +1,7 @@
+</div>
+
+<div class="clearfix"> </div>
+</div>
 <div class="footer">
                     <div class="footer-top">
                        <div class="col-md-4 footer-grid">
@@ -28,10 +32,6 @@
        <p>&copy; 2016 NewsPortal. All Rights Reserved | Design by <a href="#">Renjith VR</a> </p>
    </div>
 <div class="clearfix"> </div>
-</div>
-
-<div class="clearfix"> </div>
-</div>
    <!--//footer-->
            <!--start-smooth-scrolling-->
                                    <script type="text/javascript">

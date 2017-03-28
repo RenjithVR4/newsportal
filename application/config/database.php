@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql.hostinger.co.uk',
-	'username' => 'u878946629_root',
-	'password' => 'root123',
-	'database' => 'u878946629_newsp',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'root',
+	'database' => 'newsportal',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

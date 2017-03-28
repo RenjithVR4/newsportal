@@ -157,7 +157,6 @@ ul.top-nag  a.active{
        float: left;
 		background-color: #800080;
 		width: 20%;
-	              padding: 3em 1em 95.6em 1em;
 		   position:absolute;
 }
 .top-nav.contact{
@@ -1474,7 +1473,6 @@ ul.bottom i {
 		float: left;
 		background-color: #800080;
 		width: 17%;
-		    padding: 3em 1em 90.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -1530,7 +1528,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 17%;
-		padding: 3em 1em 85.5em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -1592,7 +1589,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 17%;
-		padding: 3em 1em 83.05em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -1670,7 +1666,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 17%;
-		padding: 3em 1em 85.25em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -1820,7 +1815,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 17%;
-		padding: 3em 1em 73.9em 1em;
 	}
 	.grid-section {
 		padding: 2em 2em;
@@ -1927,7 +1921,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 25%;
-		padding: 3em 1em 227.56em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -2137,14 +2130,12 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 25%;
-		padding: 3em 1em 200.15em 1em;
 	}
 }
 @media (max-width:768px){
 	.top-nav {
 		float: left;
 		width: 25%;
-		padding: 3em 1em 197.47em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -2189,7 +2180,6 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		width: 25%;
-		padding: 3em 1em 192.47em 1em;
 	}
 	.top-nav.sing-page {
 		float: left;

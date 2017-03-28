@@ -151,21 +151,8 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-								<div class="media">
-								 <h3 class="tittle media">Media <i class="glyphicon glyphicon-floppy-disk"></i></h3>
-								  <div class="general-text two">
-									 <a href="single.html"><img src="assets/images/gen3.jpg" class="img-responsive" alt=""></a>
-										<h5 class="top"><a href="single.html">Consetetur sadipscing elit</a></h5>
-										<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam eratsed diam justo duo dolores rebum.</p>
-										<p>On Jun 27 <a class="span_link" href="#"><span class="glyphicon glyphicon-comment"></span>0 </a><a class="span_link" href="#"><span class="glyphicon glyphicon-eye-open"></span>56 </a><a class="span_link" href="single.html"><span class="glyphicon glyphicon-circle-arrow-right"></span></a></p>
-								  </div>
-					         </div>
-					    <div class="general-text two">
-						    <a href="single.html"><img src="assets/images/gen2.jpg" class="img-responsive" alt=""></a>
-						    <h5 class="top"><a href="single.html">Consetetur sadipscing elit</a></h5>
-							<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam eratsed diam justo duo dolores rebum.</p>
-						    <p>On Jun 27 <a class="span_link" href="#"><span class="glyphicon glyphicon-comment"></span>0 </a><a class="span_link" href="#"><span class="glyphicon glyphicon-eye-open"></span>56 </a><a class="span_link" href="single.html"><span class="glyphicon glyphicon-circle-arrow-right"></span></a></p>
-					    </div>
+
+					  
 				 </div>
 			</div>
 			<!--//general-news-->
