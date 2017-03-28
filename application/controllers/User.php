@@ -96,28 +96,28 @@ class User extends CI_Controller
 				// {
 					//Sending email
 					$subject = 'This is a test';
-$message = '<p>This message has been sent for testing purposes.</p>';
+					$message = '<p>This message has been sent for testing purposes.</p>';
 
-// Get full html:
-$body = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=' . strtolower(config_item('charset')) . '" />
-    <title>' . html_escape($subject) . '</title>
-    <style type="text/css">
-        body {
-            font-family: Arial, Verdana, Helvetica, sans-serif;
-            font-size: 16px;
-        }
-    </style>
-</head>
-<body>
-' . $message . '
-</body>
-</html>';
+					// Get full html:
+					$body = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+					<html xmlns="http://www.w3.org/1999/xhtml">
+					<head>
+					    <meta http-equiv="Content-Type" content="text/html; charset=' . strtolower(config_item('charset')) . '" />
+					    <title>' . html_escape($subject) . '</title>
+					    <style type="text/css">
+					        body {
+					            font-family: Arial, Verdana, Helvetica, sans-serif;
+					            font-size: 16px;
+					        }
+					    </style>
+					</head>
+					<body>
+					' . $message . '
+					</body>
+					</html>';
 
 
-					$this->email->from('renjithvr.official@gmail.com');   //change it
+					    $this->email->from('renjithvr.official@gmail.com');   //change it
 					    $this->email->to('renjithvr.blog@gmail.com');       //change it
 					    $this->email->subject($subject);
 					    $this->email->message($body);
@@ -137,7 +137,6 @@ $body = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://
 		}
 
 		$data['gender'] = array('' => 'Select','male' => 'Male','female' => 'Female','other' => 'Other');
-
 		$this->load->view('common/header');
 		$this->load->view('register', $data);
 		$this->load->view('common/footer');
